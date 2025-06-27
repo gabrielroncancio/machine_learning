@@ -1,4 +1,4 @@
-duración del incendio (min),área afectada (m²),número de bomberos involucrados,cantidad de agua usada (m³),código tipo incendio,tipo de incendio,tipo estimado por el sistema
+duracion_del_incendio_min,area_afectada_m2,numero_de_bomberos_involucrados,cantidad_de_agua_usada_m3,código,tipo_de_incendio,tipo_estimado_por_el_Ssistema
 59.8,287.4,2,22.5,2,vehicular,vehicular
 75.8,527.6,10,18.2,1,estructural,estructural
 67.2,448.3,13,19.3,1,estructural,estructural
